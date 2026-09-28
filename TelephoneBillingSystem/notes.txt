@@ -1,3 +1,0 @@
----> need to fix seg faults for customers array. in modify, find and delete.
-
---->
